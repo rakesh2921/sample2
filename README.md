@@ -1,1 +1,2 @@
-# sample2
+# TomcatMavenApp
+Sample Tomcat Maven App
